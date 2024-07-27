@@ -21,6 +21,7 @@ Install the required libraries using:
 
 ```sh
 pip install -r requirements.txt
+```
 
 ### Running the Application
 
@@ -28,9 +29,17 @@ pip install -r requirements.txt
 
 ```sh
 docker-compose up --build
+```
 
 2. Running the Tests
 Run the tests using Docker Compose:
 
 ```sh
 docker-compose run test
+```
+
+## Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-hatkar-9510bb225/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyash071003@gmail.com)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shreyashhatkar.tech/)
