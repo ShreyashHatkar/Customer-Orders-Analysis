@@ -1,0 +1,12 @@
+services:
+  app:
+    build: .
+    command: python app.py
+    volumes:
+      - .:/usr/src/app
+
+  test:
+    build: .
+    command: pytest
+    volumes:
+      - .:/usr/src/app
